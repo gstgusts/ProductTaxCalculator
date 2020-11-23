@@ -1,0 +1,17 @@
+<configuration>
+    <current_country>Lithuania</current_country>
+    <countries>
+        <countries>
+            <name>Latvia</name>
+            <vat>22.0</vat>
+        </countries>
+        <countries>
+            <name>Estonia</name>
+            <vat>18.0</vat>
+        </countries>
+        <countries>
+            <name>Lithuania</name>
+            <vat>19.0</vat>
+        </countries>
+    </countries>
+</configuration>
